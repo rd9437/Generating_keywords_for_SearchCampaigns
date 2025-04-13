@@ -1,5 +1,6 @@
 # Generating_keywords_for_SearchCampaigns
 
+![Work Laptop](https://github.com/rd9437/Generating_keywords_for_SearchCampaigns/raw/main/work_laptop.png)
 
 
 Imagine working for a digital marketing agency, and the agency is approached by a massive online furniture retailer. They want to test your skills at creating large campaigns for all of their website. You are tasked with creating a prototype set of keywords for search campaigns for their sofas section. The client says that they want you to generate keywords for the following products:
