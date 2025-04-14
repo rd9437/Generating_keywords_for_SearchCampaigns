@@ -20,7 +20,7 @@ Based on the brief above you will first need to generate a list of words, that t
 
 The resulting keywords: 'buy sofas', 'sofas buy', 'buy recliners', 'recliners buy', 'prices sofas', 'sofas prices', 'prices recliners', 'recliners prices'.
 
-As a final result, you want to have a DataFrame that looks like this:
+As a final result, you want to have a DataFrame that looks like this:-
 
 <table>
 <thead>
